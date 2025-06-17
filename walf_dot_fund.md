@@ -95,7 +95,7 @@ More details: [Walf Media Kit](https://walf.co/wp-content/uploads/2024/11/WALF-2
 |----------|--------------|------|-----------|------------|
 | 1. Core Smart Contract Logic | ERC-1155 minting contract, escrow wallet, refund + goal logic, tier structure | All logic tested locally | days 0 - 18 | $4,000 |
 | 2. Frontend + Contract Integration | React UI connected via Polkadot.js, tier display, backer UX | Demo app live with wallet connection | days 19 - 36 | $3,000 |
-| 3. Airdrop Engine + Campaign Admin UI | Reward NFT logic, airdrop trigger, admin dashboard | 5 simulated airdrop flows | 30 hrs × $50/hr | days 36 - 54 |
+| 3. Airdrop Engine + Campaign Admin UI | Reward NFT logic, airdrop trigger, admin dashboard | 5 simulated airdrop flows | days 36 - 54 | $2500 |
 | 4. Initial Creator Onboarding + Test Campaigns | Setup for first 10 campaigns, tutorial/demo video, docs | ≥10 creators onboarded, ≥500 mints, ≥200 unique backers | days 54 - 72 | $750 |
 | 5. Marketing & Growth Ops | Email funnel, content, teaser videos, social rollout | 1,000 landing page visits, ≥100 sign-ups | days 72 - 91 | $750 |
 
